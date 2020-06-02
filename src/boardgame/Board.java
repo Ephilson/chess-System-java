@@ -7,6 +7,7 @@ public class Board {
 	private Integer columns;
 	// tabuleiro é feito de linhas e colunas
 	
+	
 	private Piece[][] pieces;
 	//intancia a matriz de peças
 	
